@@ -1,0 +1,143 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JD Portfolio</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan" rel="stylesheet">
+    <script src="https://use.typekit.net/fhp3hdk.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    
+  </head>
+
+  <body>
+
+    <!--    NAVIGATION   -->
+    <nav id="nav">
+      <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+        <button class="menu-icon" type="button" data-toggle></button>
+        <div class="title-bar-title">Menu</div>
+      </div>
+      
+      <div class="top-bar" id="example-menu">
+        <div class="top-bar-right"> <!-- This is the nameplate on the right side, also visible within hamburger menu -->
+          <ul class="menu">
+            <li class="menu-text menu-name">jantsenderoest@gmail.com</li>
+          </ul>
+        </div>
+
+        <div class="top-bar-left">
+          <ul class="medium-horizontal vertical dropdown menu" data-responsive-menu="accordion medium-dropdown">
+            <li class="home"><a href="#"><span id="bracket">Home</span></a></li>
+            <li><a href="#block-1">About</a></li>
+            <li><a href="#block-2">Projects</a></li>
+            <li><a href="#block-3"></a>Contact</li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--   END NAVIGATION   -->
+
+    <!--   MAIN HEADER   -->
+    <header class="jumbotron"><!-- Jumbotron -->
+      <div class="row"><!-- Row 1 -->
+          <div class="small-11 small-centered small-offset-1 medium-10 medium-offset-2 medium-centered column">
+          <!-- Logo Container -->
+            <h1>Hi, I'm <span id="banner-style">J</span>antsen <span id="banner-style">D</span>eRoest!</h1>
+            <h1>And boy do <span id="banner-style-2">I LOVE </span>...</h1>
+            <hr>
+            <h2 class="logo">&lt;Code&amp;Design/&gt;</h2>
+          </div> 
+      </div><!-- End Row 1 -->
+    </header><!--   END MAIN HEADER   -->
+      
+
+    <main><!--   MAIN CONTENT   -->
+      <div id="block-1" class="container">
+        <section class="row"><!-- Row 2--><!-- About Me Section -->
+          <div class="medium-12 large-11 large-centered large-offset-1 column">
+            <h3 name="block-1">A Little About Me</h3>
+            <p>I'm a <strong>front-end web devoloper</strong> based in Utah County. My goal is to create quality websites using clean and maintainable code using only the best practices. I enjoy playing with <strong>design</strong>, though I'm focused mostly on code. Currently I'm looking to work full-time with a team of hard working, friendly individuals. Additionally I love the prospect of becoming a senior web developer in the future. 
+            </p>
+
+            <p>My journey as a self taught web developer wouldnt have been possible without the following resources: <a href="https://www.codecademy.com/">CodeCademy, </a><a href="https://css-tricks.com/">CSS Tricks, </a><a href="https://www.lynda.com/">Lynda, </a><a href="https://teamtreehouse.com/">Treehouse</a>, and the Jon Duckett's books. Special thanks to all these folks. 
+            </p> 
+
+            <div class="img-center">
+              <img src="img/HTML5_CSS_JavaScript.png" width="350px" height="450px" alt="HTML5 CSS3 Logos">
+              <img src="img/jQuery.gif" width="130px" height="130px" alt="jQuery logo">
+              <img src="img/foundation.png" width="300px" height="300px" alt="Foundation Logo">
+            </div>
+          </div>
+        </section><!-- End Row 2 -->
+      </div>
+      
+
+      <div id="block-2"><!-- Block 2 -->
+        <section class="row"><!-- Row 3 --><!-- Skills Section -->
+          <div class="small-12 large-7 column">
+            <h3 name="block-2">Skills</h3>
+          
+            <h4>Related Skills</h4>
+            <ul class="skill-list">
+              <li>HTML &#32;&diams;&diams;&diams;&diams;</li>
+              <li>CSS  &#32;&diams;&diams;&diams;&diams;</li>
+              <li>Foundation Frameworks  &#32;&diams;&diams;&diams;</li>
+              <li>Illustrator  &#32;&diams;&diams;</li>
+              <li>Photoshop  &#32;&diams;</li>
+              <li>jQuery  &#32;&diams;</li>
+              <li>Javascript  &#32;&diams;</li>
+            </ul>
+            
+            <h4>Personal Expertise</h4>
+            <ul class="skill-list">
+              <li>Troubleshooter</li>
+              <li>Productive</li>
+              <li>Versitle</li>
+              <li>Respectful</li>
+              <li>Positive</li>
+            </ul>
+          </div>
+
+      <div id="block-3">
+        <section class="row"><!-- Row 4 --><!-- My Life Section -->
+          <div class="small-12 column">
+            <h3 name="block-3">My Life</h3>
+            <p><img class="img-right portrait-me" src="img/JantsenPortraitFence.JPG" width="300px">I'm 27 years old, married and have 3 kids. My passion's outside of work could include the following: spending time with family, hiking, camping, badminton, foosball, hockey, video games, and board games. 
+            </p>
+            <p>While working I've found listening to podcasts to be very enjoyable. One of my favorites related to web-development is the <a href="http://shoptalkshow.com/">Shop Talk Show. </a>I've found their approach to resolving problems in development rather refreshing. If you havent listened to it and your a web developer....  well whip out your favorite podcast player and giving it a listen! It features Chris Coyier and Dave Rupert as hosts. They discuss all things web and throw in a splash of humor.
+            </p>
+          </div>
+        </section><!-- End Row 4 -->
+      </div>
+
+
+    </main><!--   END MAIN CONTENT   -->
+    </div><!-- End Content Wrapper -->
+
+    <div id="footer-style">
+      <footer id="footer" class="row"><!-- Row 5 -->
+        <div class="small-9 push-3 small-centered small-offset-3 column">
+          
+            <a class="left linkedin" href="https://www.linkedin.com/in/jantsen-deroest-82340350"><img src="img/linkedin.jpg" width="70px" alt="linkedin logo"></li></a>
+            <p>Like what you've seen? If your interested in hiring me, feel free to shoot me a message on LinkedIn or email me at <a class="contact-focus">jantsenderoest@gmail.com</a>
+            </p>
+            <p id="copyright">&copy; All rights reserved Jantsen DeRoest 2016</p>
+        </div>
+      </footer><!-- End Row 5 -->
+    </div>
+
+    <script src="js/vendor/customscript.js"></script>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+
+  </body>
+</html>
