@@ -110,9 +110,9 @@
             <ul class="skill-list">
               <li>Troubleshooter</li>
               <li>Productive</li>
-              <li>Versitle</li>
+              <li>Versatile</li>
               <li>Respectful</li>
-              <li>Positive</ll>
+              <li>Positive</li>
             </ul>
           </div>
       </div>
@@ -135,8 +135,8 @@
       <footer id="footer" class="row"><!-- Row 5 --><!-- Footer -->
         <div class="small-9 push-3 small-centered small-offset-3 column">
           
-            <a class="left linkedin" href="https://www.linkedin.com/in/jantsen-deroest-82340350"><img src="img/linkedin.jpg" width="70px" alt="linkedin logo"></li></a>
-            <p>Like what you've seen? If your interested in hiring me, feel free to shoot me a message on LinkedIn or email me at <a class="contact-focus">jantsenderoest@gmail.com</a>
+            <a class="left linkedin" href="https://www.linkedin.com/in/jantsen-deroest-82340350"><img src="img/linkedin.jpg" width="70px" alt="linkedin logo"></a>
+            <p>Like what you've seen? If you're interested in hiring me, feel free to shoot me a message on LinkedIn or email me at <a class="contact-focus">jantsenderoest@gmail.com</a>
             </p>
             <p id="copyright">&copy; All rights reserved Jantsen DeRoest 2016</p>
         </div>
