@@ -60,7 +60,7 @@
       <div class="row"><!-- Row 1 -->
           <div class="small-11 small-centered small-offset-1 medium-10 medium-offset-2 medium-centered column">
           <!-- Logo Container -->
-            <h1>Hi, I'm <span id="banner-style">J</span>antsen <span id="banner-style">D</span>eRoest!</h2>
+            <h1>Hi, I'm <span id="banner-style">J</span>antsen <span id="banner-style">D</span>eRoest!</h1>
             <h1>And boy do <span id="banner-style-2">I LOVE </span>...</h1>
             <hr>
             <h2 class="logo">&lt;Code&amp;Design/&gt;</h2>
